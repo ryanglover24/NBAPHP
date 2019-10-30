@@ -1,0 +1,14 @@
+footer {
+    margin: 40px auto;
+    display: block;
+    text-align: center;
+    font-size: 19px;
+}
+
+.info-link {
+    float: right;
+}
+
+/* .completed {
+    margin-top: 600px;
+} */

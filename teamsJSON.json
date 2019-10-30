@@ -1,0 +1,159 @@
+{
+    "teamz": [
+
+        {
+            "team":"hawks",
+            "value":"ATL"
+        },
+
+        {
+            "team":"nets",
+            "value":"BKN"
+        },
+
+        {
+            "team":"celtics",
+            "value":"BOS"
+        },
+
+        {
+            "team":"hornets",
+            "value":"CHA"
+        },
+
+        {
+            "team":"bulls",
+            "value":"CHI"
+        },
+
+        {
+            "team":"cavaliers",
+            "value":"CLE"
+        },
+
+        {
+            "team":"mavericks",
+            "value":"DAL"
+        },
+
+        {
+            "team":"nuggets",
+            "value":"DEN"
+        },
+
+        {
+            "team":"pistons",
+            "value":"DET"
+        },
+
+        {
+            "team":"warriors",
+            "value":"GSW"
+        },
+
+        {
+            "team":"rockets",
+            "value":"HOU"
+        },
+
+        {
+            "team":"pacers",
+            "value":"IND"
+        },
+
+        {
+            "team":"clippers",
+            "value":"LAC"
+        },
+
+        {
+            "team":"lakers",
+            "value":"LAL"
+        },
+
+        {
+            "team":"grizzles",
+            "value":"MEM"
+        },
+
+        {
+            "team":"heat",
+            "value":"MIA"
+        },
+
+        {
+            "team":"bucks",
+            "value":"MIL"
+        },
+
+        {
+            "team":"timberwolves",
+            "value":"MIN"
+        },
+
+        {
+            "team":"pelicans",
+            "value":"NOP"
+        },
+
+        {
+            "team":"knicks",
+            "value":"NYK"
+        },
+
+        {
+            "team":"thunder",
+            "value":"OKC"
+        },
+
+        {
+            "team":"magic",
+            "value":"ORL"
+        },
+
+        {
+            "team":"76ers",
+            "value":"PHI"
+        },
+
+        {
+            "team":"suns",
+            "value":"PHX"
+        },
+
+        {
+            "team":"blazers",
+            "value":"POR"
+        },
+
+        {
+            "team":"kings",
+            "value":"SAC"
+        },
+
+        {
+            "team":"spurs",
+            "value":"SAS"
+        },
+
+        {
+            "team":"raptors",
+            "value":"TOR"
+        },
+
+        {
+            "team":"jazz",
+            "value":"UTA"
+        },
+
+        {
+            "team":"wizards",
+            "value":"WAS"
+        }
+
+
+
+
+    ]
+
+}
